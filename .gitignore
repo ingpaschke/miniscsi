@@ -1,0 +1,4 @@
+build/
+driver.bin
+*.o
+*.elf
